@@ -1,0 +1,110 @@
+body  {
+background: url(/pics/background.png);
+ background-color: #cccccc;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.hero-section{
+ background: url(pics/backgound-instrument.png);
+ background-size: cover;
+ height: 350px;
+ text-align: center; 
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.hero-section .hero-section-text{
+    color: #020202;
+    text-shadow: 1px 1px 2px #0a0a0a;
+}
+
+header {
+  height: 300px;
+}
+
+.main{
+  background-image:url("pics\background.png");
+}
+
+.title {
+  margin-top: 100px;
+}
+
+.header-background {
+  background-image: url("pics\backgound-instrument.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.input-group {
+  width: 20rem;
+}
+
+.search-section {
+  display: flex;
+  justify-content: center;
+}
+
+.search-title {
+  margin-top: 20px;
+}
+
+.input-group-rounded .input-group-field {
+  border-radius: 5000px 0 0 5000px;
+  padding-left: 1rem;
+}
+
+.input-group-rounded .input-group-button .button {
+  border-radius: 0 5000px 5000px 0;
+  font-size: 1.3rem;
+}
+
+.users {
+  border-color: black;
+  border-width: 1px;
+  padding: 0px:
+}
+
+.history-text {
+  text-align: center;
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+  background: url(pics\background.png);  
+  background-color: rgb(176, 176, 255);
+    border-color: black;
+    padding: 20px;
+    margin: 0px;
+    
+    
+}
+
+.footer .footer-text {
+text-align: center; 
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ 
+
+}
