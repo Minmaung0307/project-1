@@ -38,6 +38,19 @@ header {
   margin-top: 100px;
 }
 
+.noresult{
+  justify-content: center;
+  
+}
+
+.noresult-image {
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .header-background {
   background-image: url("pics\backgound-instrument.png");
   background-repeat: no-repeat;
